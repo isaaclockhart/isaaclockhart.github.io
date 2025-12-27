@@ -3,8 +3,6 @@
 ## Purpose / Question
 The goal of this exercise is to analyze a satellite image of a coastline with thermal anomalies and figure out where it came from, which country is shown, and when the image was taken. The exercise is meant to practice basic OSINT observation and geospatial reasoning using publicly available data.
 
-(image/exercise-12-screenshot.png)
-
 ## Scope & Limitations
 This exercise only uses publicly available satellite imagery and open-source data. Analysis is based on what can be observed in the image and supporting references. 
 
