@@ -5,5 +5,5 @@ The exercises below are analytic tradecraft demonstrations using open-source inf
 Each exercise includes sourcing, methodology, limitations, and confidence assessments.
 
 ## Exercises
-- [OSINT Exercise #12: Task Report](exercise-12.md)
 
+- [OSINT Exercise #12: Task Report](exercise-12.md)
