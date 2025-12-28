@@ -5,8 +5,6 @@ This site contains open-source intelligence (OSINT) training exercises and analy
 All content is based exclusively on publicly available information and demonstrates analytic tradecraft, sourcing, and uncertainty assessment.
 
 ## Areas of Focus
-- Emergency management and disaster response
-- Infrastructure and resilience
 - Open-source data analysis
 - Analytic methodology and limitations
 
