@@ -1,6 +1,4 @@
 
-![Security camera frame used for location analysis](images/Exercise-14.png)
-
 Exercise Overview – A video of an earthquake from a security camera. There is no information provided besides the video. The mission objective is to answer these two questions.
 
 What was the magnitude of the earthquake?
