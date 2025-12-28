@@ -7,4 +7,4 @@ Each exercise includes sourcing, methodology, limitations, and confidence assess
 ## Exercises
 
 - [OSINT Exercise #12: Task Report](exercise-12.md)
-- [Exercise 13 – Task Report](exercise-13-task-report)
+- [Exercise 14 – Task Report](exercise-14-task-report)
