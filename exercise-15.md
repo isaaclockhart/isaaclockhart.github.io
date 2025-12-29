@@ -7,10 +7,12 @@ b) The exact location of where the telescope was placed once completed.
 
 Analysis/ thought process- My initial thought process to begin this exercise after reading the caption report is to come up with my initial research material. From the report I know this was Jan 18 Berlin, Germany 1953 and the telescope is being assembled at the Askania factory for the University of Bonn. I know some details about the telescope for later in my search as well. I first begin by searching up "Askania factory telescope 1953" and the first result is a website and picture with the exact wording as the report. The next website is of a newspaper article describing a giant camera being built in Berlin at the Askania facotry weighing 3 tons, over 18 feet tall, with the same describing qualities as the caption report, I now need to find out where it went. In a UNESCO website article I have found a photo and description of the 34/50-cm-Schmidt Telescope, Askania of Berlin (1954), (Hoher List, Tower 1, 1953/54). Now I have to find out the coordinates to Tower 1, the website shows a picture of tower 1, so I can use that to determine which tower is tower 1 on a overhead view. I now will use Google Earth to find the coordinates. 
 50°09'42"N 6°50'53"E. 
-[telscope.html](https://github.com/user-attachments/files/24367237/telscope.html)
+
 
 Answers:
  picture matching description of the telescope:
+[Uploading 17 Feb 1953 - 18 FEET, 3-TON CAMERA - Trove.mhtml…]()
+
  ![Schmidt Telescope](https://github.com/user-attachments/assets/667f02fd-ae53-4b2f-953c-0addea087255)
 
 I could've used the first image I came across of the telescope being described as under construction, but it's a bad image
