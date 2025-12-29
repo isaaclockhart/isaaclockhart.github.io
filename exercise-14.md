@@ -1,3 +1,4 @@
+video link- https://www.youtube.com/watch?v=myTG1LpMN7g
 
 Exercise Overview – A video of an earthquake from a security camera. There is no information provided besides the video. The mission objective is to answer these two questions.
 
