@@ -11,9 +11,7 @@ Analysis/ thought process- My initial thought process to begin this exercise aft
 
 Answers:
  picture matching description of the telescope:
-[Uploading 17 Feb 1953 - 18 FEET, 3-TON CAMERA - Trove.mhtml…]()
-
- ![Schmidt Telescope](https://github.com/user-attachments/assets/667f02fd-ae53-4b2f-953c-0addea087255)
+![Schmidt Telescope](https://github.com/user-attachments/assets/667f02fd-ae53-4b2f-953c-0addea087255)
 
 I could've used the first image I came across of the telescope being described as under construction, but it's a bad image
 exact location of where the telescope was placed once completed: 50°09'42"N 6°50'53"E
