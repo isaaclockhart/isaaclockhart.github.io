@@ -1,5 +1,9 @@
 # OSINT Exercise #12: Task Briefing
 
+![#12](https://github.com/user-attachments/assets/296b61b2-969d-458c-9a65-b2dbf0f8f514)
+
+
+
 ## Purpose / Question
 The goal of this exercise is to analyze a satellite image of a coastline with thermal anomalies and figure out where it came from, which country is shown, and when the image was taken. The exercise is meant to practice basic OSINT observation and geospatial reasoning using publicly available data.
 
