@@ -9,8 +9,5 @@ Analysis/ thought process- My initial thought process to begin this exercise aft
 50°09'42"N 6°50'53"E
 
 Answers: Instead of using the picture from the newspaper announcing the telescope is being built I'll just use the picture of the telescope at Hoher list.
-The picture is Fig. 8b. OHL Tower 1 with the Schmidt Telescope (Photo: Gudrun Wolfschmidt) at 
-[
-](https://web.astronomicalheritage.net/show-entity?identity=114&idsubentity=1)
-
+The picture is Fig. 8b. OHL Tower 1 with the Schmidt Telescope (Photo: Gudrun Wolfschmidt) at (https://web.astronomicalheritage.net/show-entity?identity=114&idsubentity=1)
  coordinates of tower 1 at OHL- 50°09'42"N 6°50'53"E
