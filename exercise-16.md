@@ -1,1 +1,20 @@
 
+![#16](https://github.com/user-attachments/assets/4ef8faa6-3275-41ce-8cc4-a6dc6a9bb81a)
+Exercise Overview
+This exercise is rated as hard, even for experts. This exercise involves a picture of an A-10 Thunderbolt II flying over an undisclosed area after being refueled by a KC-130 Extender. My objective is to disclose that location. The only information available besides the picture is that it was shared by a user in a Twitter post from November 25, 2020, and that the picture was taken by Staff Sgt. Micheal Battles.
+
+Analysis / Thought Process
+The first step I took was conducting a reverse image search. I came across a U.S. CENTCOM website with the exact picture. The caption under the image provided some insight, stating that it was taken during mission “Inherent Resolve” on May 31, 2017. When I researched the mission, I found another Air Force website with the same picture depicting the A-10 being refueled by the 908th Expeditionary Air Refueling Squadron based out of Travis AFB. I then found another image of an A-10 with a landscape similar to the exercise picture. After selecting that image, I saw the same picture again stating the A-10 was supporting Inherent Resolve and that the picture was taken over Southwest Asia.
+
+At this point, I knew the aircraft in the picture was part of “Inherent Resolve,” that it was over Southwest Asia, and that it was refueled by the 908th Squadron. However, I still could not determine the exact mission of the A-10, where it was stationed, or the precise location shown in the image. After additional searching, I found the date May 31, 2017, referenced in a joint task force report mentioning a mission near Mosul, Iraq, and another near Al Mayadin, Syria. After another two hours of searching, I cropped another picture from the same flight. This allowed me to positively identify a distinctive island through image searching.
+
+In a Facebook post, I found a picture of the island containing the words Eskihüsnümansur – Girik Köyü. I translated this to English as “Girik Village.” After searching Eskihüsnümansur in Google Maps, I was able to identify where the second picture was taken. I examined Atatürk Dam on Google Maps using results from an image search of the cropped background. I knew I was very close, but the geography did not initially match. I was then able to determine that the other image I had found was taken just a few minutes before the objective image. The picture used in this exercise shows the A-10 approaching the tanker to refuel, while the other image shows the A-10 departing from the tanker.
+
+By examining Atatürk Dam, I confirmed it as the location of the second image, but I could not determine the exact spot until later. By reverse image searching the island and tracing the Facebook post, I was able to identify exactly where the A-10 broke off, which was crucial for reverse tracing the location of the original image. I determined that I needed to search west, as my research into U.S. bases in Turkey suggested the aircraft was likely coming from or heading to Incirlik Air Base due to the missions conducted in Syria and Iraq that day. I then began searching the flight path west of Eskihüsnümansur.
+
+I spent several hours searching for the location of the first image. I reviewed the area repeatedly and had examined the exact location approximately ten separate times, realizing afterward that I had been directly on it without recognizing it. The location of the A-10 in the photo is approximately 37°39'40"N 38°05'27"E based on Google Earth coordinates. While the coordinates may not be exact, they reflect the location provided by Google Earth.
+
+Exercise Summary
+This exercise was challenging, and I spent more time on it than I should have due to repeatedly overlooking the location, which was frustrating. The exercise felt similar to real intelligence work, as all available sources labeled the images as “undisclosed location.” There was very little information to work with, and the Facebook post was the key element that allowed me to resolve the location. 
+
+37°39'40"N 38°05'27"E
