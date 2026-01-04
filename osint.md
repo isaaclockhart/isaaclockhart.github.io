@@ -5,7 +5,7 @@ The exercises below are analytic tradecraft demonstrations using open-source inf
 Each exercise includes sourcing, methodology, limitations, and confidence assessments.
 
 ## Assessment
-- [Digital Footprint Correlation Assessment](Digital Footprint Correlation Assessment.md)
+- [Digital Footprint Correlation Assessment](DigitalFootprintCorrelationAssessment.md)
 
 ## Exercises
 
