@@ -2,7 +2,11 @@
 
 The exercises below are analytic tradecraft demonstrations using open-source information only.
 
-Each exercise includes sourcing, methodology, limitations, and confidence assessments.
+-Assessment section are formal analytic OSINT assessments.
+
+-Exercises section are informal reports solving OSINT challenges. 
+
+-Exercise's are from- https://gralhix.com/list-of-osint-exercises/
 
 ## Assessment
 - [Digital Footprint Correlation Assessment](DigitalFootprintCorrelationAssessment.md)
