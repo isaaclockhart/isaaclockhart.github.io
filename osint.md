@@ -16,4 +16,5 @@ The exercises below are analytic tradecraft demonstrations using open-source inf
 - [OSINT Exercise 12 - Task Report](exercise-12.md)
 - [OSINT Exercise 14 – Task Report](exercise-14.md)
 - [OSINT Exercise 15 - Task Report](exercise-15.md)
-- [OSINT Exercise 16 - Task report](exercise-16.md)
+- [OSINT Exercise 16 - Task Report](exercise-16.md)
+- [OSINT Exercise 17 - Task Report](exercise-17.md)
