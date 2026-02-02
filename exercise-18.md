@@ -7,4 +7,8 @@ b) Measure the distance travelled by the Queen’s carriage, following the 1953 
 c) Estimate the average speed at which the Queen’s carriage travelled.
 
 Analysis/ thought process-
-For this exercise I first need to start by researching Queen Elizabeth II exiting Westminster Abbey after the coronation. 
+For this exercise I first need to start by researching Queen Elizabeth II exiting Westminster Abbey after the coronation. After some research, I find an article stating the queen exited the abbey throught the west door. Now to find the distance traveled. I found an article stating it was 7.2km,but measuring it says 8.2km. It's stated the coronation took about 100 minutes, if you do the math, that comes out about 3mph.
+
+a. West door
+b. 7.2km
+c. 3mph
